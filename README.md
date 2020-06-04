@@ -1,6 +1,10 @@
-# portfolio
-## portfolio
-### portfolio
+# 정종헌
++ttyu345@naver.com  
++010-4498-1979
++경기도 부천시  
+
+## 학력
+
 + 프로젝트1
 + 프로젝트2
 
